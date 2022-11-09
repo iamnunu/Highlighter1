@@ -1,0 +1,12 @@
+#data {
+    font-size : 20px;
+    color : black;
+}
+
+.highlightedText {
+    background-color : red;
+}
+
+.replaceBgColor {
+    background-color: white;
+}
